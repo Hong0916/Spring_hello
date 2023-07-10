@@ -12,7 +12,7 @@ public class Member {
 		this.id = id;
 	}
 	
-	public String GetName() {
+	public String getName() {
 		return name;
 	}
 	
