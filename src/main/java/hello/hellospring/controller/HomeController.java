@@ -8,7 +8,7 @@ public class HomeController {
 	
 	@GetMapping("/")
 	public String home() {
-		return "home";
+		return "home";	// "home"이라는 뷰 반환
 	}
 
 }
